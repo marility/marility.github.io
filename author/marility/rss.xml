@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>marility.github.io/chunlanyy/</title>
+   
+   <link>http://localhost:4000</link>
+   <description>Just for another life.</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>lost in semporna</title>
+	  <link>//lost_in_semporna</link>
+	  <author></author>
+	  <pubDate>2019-09-06T18:04:25+08:00</pubDate>
+	  <guid>//lost_in_semporna</guid>
+	  <description><![CDATA[
+	     <ul>
+  <li>Youtube</li>
+</ul>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/1bHifOdrFBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<ul>
+  <li>Bilibili</li>
+</ul>
+<iframe width="710" height="400" src="//player.bilibili.com/player.html?aid=68045491&amp;cid=117937841&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
