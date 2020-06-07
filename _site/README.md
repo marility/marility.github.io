@@ -15,7 +15,7 @@ This is exactly what I have done for the generating the live demo.
 
 ## Live demo
 
-[Jasper Live Demo](https://biomadeira.github.io/chunlanyy)
+[Jasper Live Demo](https://biomadeira.github.io)
 
 [Casper's Original Here](https://demo.ghost.io)
 
@@ -23,22 +23,22 @@ This is exactly what I have done for the generating the live demo.
 ## Screenshots
 
 **Home page**
-![home page](https://raw.githubusercontent.com/biomadeira/chunlanyy/master/assets/images/chunlanyy_screen1.png)
+![home page](https://raw.githubusercontent.com/biomadeira/master/assets/images_screen1.png)
 
 **Post page**
-![post page](https://raw.githubusercontent.com/biomadeira/chunlanyy/master/assets/images/chunlanyy_screen2.png)
+![post page](https://raw.githubusercontent.com/biomadeira/master/assets/images_screen2.png)
 
 **Author page**
-![author page](https://raw.githubusercontent.com/biomadeira/chunlanyy/master/assets/images/chunlanyy_screen3.png)
+![author page](https://raw.githubusercontent.com/biomadeira/master/assets/images_screen3.png)
 
 **Related posts page**
-![tag page](https://raw.githubusercontent.com/biomadeira/chunlanyy/master/assets/images/chunlanyy_screen4.png)
+![tag page](https://raw.githubusercontent.com/biomadeira/master/assets/images_screen4.png)
 
 **Tags page with opened sidebar**
-![sidebar page](https://raw.githubusercontent.com/biomadeira/chunlanyy/master/assets/images/chunlanyy_screen5.png)
+![sidebar page](https://raw.githubusercontent.com/biomadeira/master/assets/images_screen5.png)
 
 **404 page**
-![related page](https://raw.githubusercontent.com/biomadeira/chunlanyy/master/assets/images/chunlanyy_screen6.png)
+![related page](https://raw.githubusercontent.com/biomadeira/master/assets/images_screen6.png)
 
 ## Jasper theme includes
 
@@ -62,7 +62,7 @@ _site/ contents to your repository (*gh-pages branch*).
 
 ## Issues and contributing 
 
-I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. If you run into any issues please log them on the [issue tracker](https://github.com/biomadeira/chunlanyy/issues).
+I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. If you run into any issues please log them on the [issue tracker](https://github.com/biomadeira/issues).
 
 Feel free pull-request your patches and fixes.
 
